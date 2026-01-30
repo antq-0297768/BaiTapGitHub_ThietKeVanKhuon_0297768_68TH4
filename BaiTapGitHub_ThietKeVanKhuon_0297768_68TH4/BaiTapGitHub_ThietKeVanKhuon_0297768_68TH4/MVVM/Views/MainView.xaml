@@ -7,9 +7,6 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-        <StackPanel VerticalAlignment="Center" Margin="20">
-            <TextBlock Text="Chào mừng bạn đến với hệ thống! " Margin="0,10"/>
-            <TextBox x:Name="UserNameInput" Margin="0,10"/>
-        </StackPanel>
-    </Grid>-
+        <Button Content=" Click me " Grid.Row="0"/>
+    </Grid>
 </UserControl>
