@@ -8,7 +8,6 @@ namespace BaiTapGitHub_ThietKeVanKhuon_0297768_68TH4.MVVM.ViewModels
 {
     internal class LoginViewModel
     {
-        public string title = "Login screen";
-        public string status = "Hello git branch 2";
+        public string Message = "MVVM only";
     }
 }
