@@ -7,6 +7,12 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
+ kietbt/feature/LoginView
+            
+    </Grid>
+</UserControl>
+
         <Button Content=" Click me " Grid.Row="0"/>
     </Grid>
 </UserControl>
+ main
