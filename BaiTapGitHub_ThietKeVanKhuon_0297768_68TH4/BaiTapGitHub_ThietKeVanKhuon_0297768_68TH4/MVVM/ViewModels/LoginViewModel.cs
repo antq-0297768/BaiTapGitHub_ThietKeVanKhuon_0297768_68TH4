@@ -8,6 +8,9 @@ namespace BaiTapGitHub_ThietKeVanKhuon_0297768_68TH4.MVVM.ViewModels
 {
     internal class LoginViewModel
     {
+ kietbt/feature/LoginView
         public string Message = "MVVM only";
+
+ main
     }
 }
